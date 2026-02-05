@@ -27,11 +27,3 @@ npm run dev
 npm run build
 # The build artifacts will be stored in the `build/` directory.
 ```
-
-## Deploy Your Own
-
-Deploy your own Vite project with Edgeone pages.
-
-[![Deploy with EdgeOne Pages](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=vite-react)
-
-More Templates: [EdgeOne Pages](https://edgeone.ai/pages/templates)
