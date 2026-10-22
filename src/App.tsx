@@ -54,7 +54,7 @@ function App() {
           ) : (
             <div className="w-4 h-4 mr-2" />
           )}
-          Execute API Call
+          {isLoading ? "Calling API…" : "Execute API Call"}
         </button>
         {apiResult && (
           <div className="text-left">
